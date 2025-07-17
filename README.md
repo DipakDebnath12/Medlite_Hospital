@@ -142,4 +142,67 @@ A complete web-based solution to manage hospital operations like patient registr
 
 1. **Clone the repo**
    bash
-   git clone https://github.com/yourusername/medlite-hospital.git
+   git clone https://github.com/DipakDebnath12/Medlite_Hospital.git
+
+
+   Set up the database
+
+Import medlite_hospital.sql into your local MySQL server using phpMyAdmin.
+
+Run the project
+
+Place the project folder in htdocs (if using XAMPP).
+
+Start Apache & MySQL.
+
+Navigate to http://localhost/medlite-hospital/index.php
+
+🔐 Authentication
+Users must log in as:
+
+Admin
+
+Doctor
+
+Patient
+
+Role-based access ensures data security and privacy.
+
+🚫 Limitations
+No token-based authentication.
+
+No medical file uploads or digital prescriptions (planned for future).
+
+No live hosting or cloud deployment.
+
+🧩 Future Enhancements
+Integration with pharmacy and billing departments.
+
+Role-based dashboards with analytics.
+
+File upload (X-rays, prescriptions).
+
+Live chat between patients and doctors.
+
+👨‍💻 Contributors
+Subham Saha
+
+Dipak Debnath
+
+Subham Debnath
+
+Sumitra Singha
+
+Puja Roy
+
+Tshaisang Dolma Tamang
+
+Under the guidance of Dipak Kumar Sarkar, Department of Computer Science & Applications, Siliguri College
+
+📄 License
+This project is for academic and educational purposes only. Feel free to modify for personal use or learning.
+
+📬 Contact
+📧 Email: officialmedlite@gmail.com
+
+📱 WhatsApp: Click to Chat
