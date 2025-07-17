@@ -71,7 +71,8 @@ A complete web-based solution to manage hospital operations like patient registr
    bash
    git clone https://github.com/yourusername/medlite-hospital.git
 
-Set up the database
+
+## Set up the database
 
 Import medlite_hospital.sql into your local MySQL server using phpMyAdmin.
 
