@@ -1,4 +1,3 @@
-# Medlite_Hospital
 # Medlite Hospital Management System 🏥
 
 A complete web-based solution to manage hospital operations like patient registration, doctor scheduling, appointments, and billing, designed for small to medium-scale healthcare facilities.
